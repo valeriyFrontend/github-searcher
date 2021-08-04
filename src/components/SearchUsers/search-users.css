@@ -1,0 +1,23 @@
+.github__main {
+  width: 500px;
+  margin: 0 auto;
+  border: 1px #000 solid;
+}
+.github__search {
+  text-align: center;
+}
+.github__input {
+  width: 80%;
+  margin: 0 auto 10px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.github__user-card {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 10px;
+  border-top: 1px #000 solid;
+  padding: 10px;
+  box-sizing: border-box;
+}
